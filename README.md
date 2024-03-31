@@ -1,28 +1,25 @@
-<h1 align="center">Hi 👋, I'm Jobair Mahmud</h1>
-<h3 align="center">A passionate Web Analytics Expert from Bangladesh</h3>
+### Hi there 👋, I am Jobair Mahmud
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1038276635613573120/1660908113/600x200)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jobairmahmud&label=Profile%20views&color=0e75b6&style=flat" alt="jobairmahmud" /> </p>
+Hi, This is Jobair Mahmud a Google Certified Data-Driven Digital Marketing and web Analytics Expert Having 3 Years of Experience I have completed 1075+ projects at various marketplaces in Google Analytics 4, GA4, Facebook Conversion API, and Server Side Tracking and Ecommerce Conversion Tracking, Google Tag Manager, Google Ads PPC, Bing Tracking, FB Tracking, and IG Tracking With My Skills, I Can Help Your Business to Grow Revenue Next Level. 🏆
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jobairmahmud" alt="jobairmahmud" /></a> </p>
+⚡ I Can Solve Your Problems and fulfill all your Tasks related to Google Ads, Google Tag Manager, Google Analytics 4, Google Looker Studio, Facebook Pixel Conversion API, and Event Tracking and solve all your conversion tracking issues that can help to measure the performance of campaigns ⭐⭐⭐
 
-<p align="left"> <a href="https://twitter.com/jobairmahmud365" target="blank"><img src="https://img.shields.io/twitter/follow/jobairmahmud365?logo=twitter&style=for-the-badge" alt="jobairmahmud365" /></a> </p>
+Skills: Google Analytics 4 / Server Side Tracking / GTM / CAPI / CSS
 
-- 🔭 I’m currently working on **Google analytics 4**
+- 🔭 I’m currently working on Youtube and Google Analytics  
+- 🌱 I’m currently learning Javascript  
 
-- 📫 How to reach me **contact@jobairmahmud.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jobairmahmud365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jobairmahmud365" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@jobairmahmud365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jobairmahmud365" height="30" width="40" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Jobairmahmud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/JobairMahmud365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@jobairmahmud365)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jobairmahmud.com/)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jobairmahmud&show_icons=true&locale=en&layout=compact" alt="jobairmahmud" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Jobairmahmud)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jobairmahmud&show_icons=true&locale=en" alt="jobairmahmud" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Jobairmahmud)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jobairmahmud&" alt="jobairmahmud" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Jobairmahmud&show_icons=true)  
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Jobairmahmud/contributions?format=svg&private=false)  
