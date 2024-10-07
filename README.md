@@ -8,6 +8,79 @@ Hi, This is Jobair Mahmud a Google Certified Data-Driven Digital Marketing and w
 
 Skills: Google Analytics 4 / Server Side Tracking / GTM / CAPI / CSS
 
+
+✅ Shopify Checkout Extensibility Upgrade
+✅ Google Consent Mode V2 implementation
+
+✅ Google Analytics Audits
+✅ Setup Google Analytics GA4
+✅ Google Analytics 4 & Linked with Google Ads
+✅ Google Analytics 4 - GA4 eCommerce Tracking
+✅ Google Analytics 4 - GA4 Server Side Tracking
+✅ Google Analytics 4 - GA4 Events Tracking
+✅ Google Analytics 4 - GA4 cross-domain tracking
+✅ Google Analytics 4 - Custom Dashboards & Reports
+✅ Google Analytics Fixing any issues relating to
+✅ Google Analytics UA to GA4 Migration
+✅ GA4 iFrame & Calendly Form Tracking, Different Lead Form Tracking
+✅ GA4 Button Click, Link Click, Scroll Track, Time Track, Video Tracking
+✅ GA4 Custom Dimensions & Metrics setup
+✅ GA4 Exploration Reports
+
+✅ Google Tag Manager - GTM setup & performance audit
+✅ Google Tag Manager - GTM consultations
+✅ Google Tag Manager on Shopify, Woocommerce, Clickfunnels, Wix, Magento
+✅ Fixing any issues relating to Google Tag Manager
+✅ Setup and fix Tag, Trigger & Variable
+
+✅ Google Ads Conversion Tracking (Dynamic Value)
+✅ Google Ads Offine Conversion Tracking
+✅ Google Ads Lead Conversion Tracking
+✅ Google Ads Dynamic Remarketing Tag
+✅ Google Ads Server Side Tracking Setup
+✅ Campaign UTM Tracking Setup
+
+✅ Meta Pixel (CAPI) Setup
+✅ Facebook Ads tracking audit
+✅ Facebook Ads conversion tracking
+✅ Facebook Ads enhanced conversion tracking
+✅ Facebook Ads offline conversion tracking
+✅ Facebook Ads dynamic remarketing setup
+✅ Facebook Conversion API - CAPI setup
+✅ Extend Cookie Lifetime
+✅ First Party Domain Tracking
+✅ Fix IOS 14 Update issue
+
+✅ Twitter Conversion Tracking
+✅ Snapchat Pixel & conversion API
+
+✅ TikTok Pixel & Event API setup
+✅ TikTok Ads tracking audit
+✅ TikTok Pixel implementation & setup
+✅ TikTok Ads conversion tracking
+✅ TikTok Ads enhanced conversion tracking
+✅ TikTok Conversion API - CAPI setup
+✅ TikTok Server Side Tracking setup
+
+✅ Microsoft/Bing Ads tracking audit
+✅ Microsoft/Bing Pixel implementation & setup
+✅ Microsoft/Bing Ads conversion tracking
+✅ Microsoft/Bing Ads enhanced conversion tracking
+✅ Microsoft/Bing Ads offline conversion tracking
+✅ Microsoft/Bing Ads dynamic remarketing setup
+
+✅ LinkedIn Conversion API - CAPI setup
+✅ LinkedIn Ads tracking audit
+✅ LinkedIn Pixel implementation & setup
+✅ LinkedIn Ads conversion tracking
+✅ LinkedIn Ads enhanced conversion tracking
+
+✅ Pinterest Ads tracking audit
+✅ Pinterest Pixel implementation & setup
+✅ Pinterest Ads conversion tracking
+✅ Pinterest Ads enhanced conversion tracking
+✅ Pinterest Conversion API - CAPI setup
+
 - 🔭 I’m currently working on Youtube and Google Analytics  
 - 🌱 I’m currently learning Javascript  
 
