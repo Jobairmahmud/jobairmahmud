@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Jobair Mahmud
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1038276635613573120/1660908113/600x200)
+
 
 Hi, This is Jobair Mahmud a Google Certified Data-Driven Digital Marketing and web Analytics Expert Having 3 Years of Experience I have completed 1075+ projects at various marketplaces in Google Analytics 4, GA4, Facebook Conversion API, and Server Side Tracking and Ecommerce Conversion Tracking, Google Tag Manager, Google Ads PPC, Bing Tracking, FB Tracking, and IG Tracking With My Skills, I Can Help Your Business to Grow Revenue Next Level. 🏆
 
